@@ -6,7 +6,7 @@ Download database (task.sql) from database folder and import in your database.
 
 ## API For Testing
 
-URL: https://cscvotercardonline.co.in/api/ <br>
-Method: Post <br>
+#URL: https://cscvotercardonline.co.in/api/ <br>
+#Method: Post <br>
 Request Data: Json <br>
 Response Data: Json
