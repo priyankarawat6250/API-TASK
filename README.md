@@ -10,3 +10,9 @@ Download database (task.sql) from database folder and import in your database.
 <b>Method:</b> Post <br>
 <b>Request Data:</b> Json <br>
 <b>Response Data:</b> Json
+
+![This is an image](https://cscvotercardonline.co.in/screenshot/image.png)
+
+
+
+
