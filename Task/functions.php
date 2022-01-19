@@ -11,12 +11,10 @@ function check_server_file($url){
 function check_local_file($url,$folder){
 
      
-        $basename = pathinfo($value)['basename'];
-          $extension = pathinfo($basename, PATHINFO_EXTENSION);
+        $basename = pathinfo($url)['basename'];
+        $extension = pathinfo($basename, PATHINFO_EXTENSION);
         $file_name = pathinfo($basename, PATHINFO_FILENAME);
         $file_name_original = $file_name;
-
-
 
         $num = 1;
         while (file_exists($folder . $file_name . "." . $extension)) {
