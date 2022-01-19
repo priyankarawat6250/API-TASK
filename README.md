@@ -2,6 +2,4 @@ This Php API is meant to save response from third party server to our database a
 
 ## Installation
 
-1. Download database (task.sql) from database folder
-2. Download the files from Task folder 
-3. Upload Both Downloaded files into your server
+Download database (task.sql) from database folder and import in your database.
